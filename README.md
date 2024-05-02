@@ -3,7 +3,7 @@
 📟 Back-end Developer <br/>
 📧 How to reach me: **david.miranda.milstein@gmail.com**
 
-# 💻 Tech Stack:
+# 🧬 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Javascript-f7df1e?logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-800080?logo=c%23)
