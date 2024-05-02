@@ -6,8 +6,6 @@
 # 💻 Tech Stack:
 <br/>
 
-
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-800080?logo=c%23)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -24,3 +22,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=red3blue&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+
+![Goodbye](https://github.com/images/mona-whisper.gif)
