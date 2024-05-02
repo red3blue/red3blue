@@ -1,7 +1,7 @@
 
 # Hi, I'm Pelao 👨🏻‍💻
 📟 Back-end Developer <br/>
-📧 How to reach me: **m.david.miranda.milstein@gmail.com**
+📧 How to reach me: **.david.miranda.milstein@gmail.com**
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
