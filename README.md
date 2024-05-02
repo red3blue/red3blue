@@ -5,10 +5,10 @@
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Javascript-f7df1e?logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-800080?logo=c%23)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3)
-![TypeScript](https://img.shields.io/badge/Javascript-f7df1e?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 
 
