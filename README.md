@@ -4,8 +4,6 @@
 📧 How to reach me: **m.david.miranda.milstein@gmail.com**
 
 # 💻 Tech Stack:
-<br/>
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-800080?logo=c%23)
 ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
