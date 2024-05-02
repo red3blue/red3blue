@@ -19,6 +19,7 @@
 
 # 📊 GitHub Stats:
 ![Pelao GitHub stats](https://github-readme-stats.vercel.app/api?username=red3blue&show_icons=true&theme=algolia)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=red3blue&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
