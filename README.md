@@ -13,12 +13,14 @@
 
 
 
+
+
 # 📊 GitHub Stats:
-![Pelao GitHub stats](https://github-readme-stats.vercel.app/api?username=red3blue&show_icons=true&theme=algolia)
+![Pelao GitHub stats](https://github-readme-stats.vercel.app/api/?username=red3blue\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&rank_icon=github)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=red3blue&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=red3blue&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=red3blue&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
