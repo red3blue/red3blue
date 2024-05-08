@@ -26,5 +26,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=red3blue&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ![Goodbye](https://github.com/images/mona-whisper.gif)
-![Goodbye](https://github.com/images/mona-loading-dark.gif)
 
