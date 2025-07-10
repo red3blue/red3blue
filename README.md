@@ -1,5 +1,5 @@
 
-# Hi, I'm Pelao 👨🏻‍💻![Goodbye](https://github.com/images/mona-whisper.gif)
+# Hi, I'm Pelao 👨🏻‍💻
 📟 Back-end Developer <br/>
 📧 How to reach me: **david.miranda.milstein@gmail.com**
 
@@ -24,5 +24,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=red3blue&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-![Goodbye](https://github.com/images/mona-hifive.gif)
+![Goodbye](https://github.com/images/mona-whisper.gif)
 
